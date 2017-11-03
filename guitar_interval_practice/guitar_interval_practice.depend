@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509410598 source:c:\users\eva\desktop\c++ projects\guitar_interval_practice\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+
